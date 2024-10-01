@@ -1,0 +1,102 @@
+{
+    "schemaVersion": "1.0.0",
+    "sourceName": "Funki_Delire",
+    "mods": {
+        "dragon-jak-ball": {
+            "displayName": "Dragon Jak Ball",
+            "description": "Dragon Jak Ball",
+            "authors": [
+                "Funki Delire"
+            ],
+            "tags": [
+                "texture-mod",
+                "gameplay-mod",
+                "model-replacement"
+            ],
+            "websiteUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Ball",
+            "supportedGames": [
+                "jak1"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.3",
+                    "publishedDate": "2024-09-17T01:01:01Z",
+                    "supportedGames": [
+                        "jak1"
+                    ],
+                    "settings": {
+                        "decompConfigOverride": "",
+                        "shareVanillaSaves": false
+                    },
+                    "assets": {
+                        "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Ball/releases/download/v0.0.3/windows-v0.0.3.zip",
+                        "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Ball/releases/download/v0.0.3/linux-v0.0.3.tar.gz",
+                        "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Ball/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
+                    },
+                    "assetDownloadCounts": {
+                        "windows": 0,
+                        "linux": 0,
+                        "macos": 0
+                    }
+                }
+            ],
+            "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Ball/blob/main/DRAGON%20JAK%20BALL.jpg?raw=true",
+            "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Ball/blob/main/DRAGON%20JAK%20BALL.jpg?raw=true",
+            "perGameConfig": {
+                "jak1": {
+                    "releaseDate": "2024-09-17"
+                }
+            },
+            "externalLink": null
+        },
+        "dragon-jak-z": {
+            "displayName": "Dragon Jak Z",
+            "description": "Dragon Jak Z",
+            "authors": [
+                "Funki Delire"
+            ],
+            "tags": [
+                "texture-mod",
+                "gameplay-mod",
+                "model-replacement"
+            ],
+            "websiteUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Z-Mods",
+            "supportedGames": [
+                "jak2"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.2",
+                    "publishedDate": "2024-09-17T01:01:01Z",
+                    "supportedGames": [
+                        "jak2"
+                    ],
+                    "settings": {
+                        "decompConfigOverride": "",
+                        "shareVanillaSaves": false
+                    },
+                    "assets": {
+                        "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Z-Mods/releases/download/v0.0.2/windows-v0.0.2.zip",
+                        "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Z-Mods/releases/download/v0.0.2/linux-v0.0.2.tar.gz",
+                        "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Z-Mods/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
+                    },
+                    "assetDownloadCounts": {
+                        "windows": 0,
+                        "linux": 0,
+                        "macos": 0
+                    }
+                }
+            ],
+            "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Z-Mods/blob/main/JAK%202%20MODS%20Dragon%20Jak%20Z%20!%20TRAILER%20AND%20TUTO%20!%20%23jakanddaxter%20%23jak2%20%23dragonball%20%23opengoal%20%23mods.png?raw=true",
+            "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Z-Mods/blob/main/JAK%202%20MODS%20Dragon%20Jak%20Z%20!%20TRAILER%20AND%20TUTO%20!%20%23jakanddaxter%20%23jak2%20%23dragonball%20%23opengoal%20%23mods.png?raw=true",
+            "perGameConfig": {
+                "jak2": {
+                    "releaseDate": "2024-08-29"
+                }
+            },
+            "externalLink": null
+        }
+    },
+    "texturePacks": {},
+    "lastUpdated": "2024-10-01T01:01:01.000Z"
+}
