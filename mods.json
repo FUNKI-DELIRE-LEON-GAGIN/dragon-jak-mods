@@ -98,13 +98,15 @@
         },
         "jak-4-mods": {
             "displayName": "Jak 4 Mods",
-            "description": "Les mods pour Jak 4",
+            "description": "Ultimate mods for Jak 4! Lots of power and the game is modified! New music, texture pack, models, powers, modified bosses, realistic waves, etc... I spent a crazy amount of time creating the mods!",
             "authors": [
                 "Funki Delire"
             ],
             "tags": [
                 "texture-mod",
                 "gameplay-mod",
+                "Custom map",
+                "Power",
                 "model-replacement"
             ],
             "websiteUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods",
