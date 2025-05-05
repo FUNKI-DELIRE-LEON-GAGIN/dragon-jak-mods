@@ -113,18 +113,30 @@
             "supportedGames": [
                 "jak1"
             ],
-            "versions": [
-                {
-                    "version": "1.0.0",
-                    "publishedDate": "2025-05-03T01:01:01Z",
-"assets": {
-  "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v1.0.0/windows-v1.0.0.zip",
-  "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v1.0.0/windows-v1.0.0.zip",
-  "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v1.0.0/windows-v1.0.0.zip"
-}
-
-                }
-            ],
+"versions": [
+  {
+    "version": "1.0.0",
+    "publishedDate": "2025-05-03T01:01:01Z",
+    "supportedGames": [
+      "jak1"
+    ],
+    "settings": {
+      "decompConfigOverride": "",
+      "shareVanillaSaves": false
+    },
+    "assets": {
+      "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v1.0.0/windows-v1.0.0.zip",
+      "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v1.0.0/windows-v1.0.0.zip",
+      "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v1.0.0/windows-v1.0.0.zip"
+    },
+    "assetDownloadCounts": {
+      "windows": 0,
+      "linux": 0,
+      "macos": 0
+    }
+  }
+]
+,
 "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/blob/main/JAK%204%20MINIA.jpg?raw=true",
 "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/blob/main/JAK%204%20MINIA.jpg?raw=true"
 
