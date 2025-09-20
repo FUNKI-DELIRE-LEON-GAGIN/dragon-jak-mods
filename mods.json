@@ -113,35 +113,53 @@
             "supportedGames": [
                 "jak1"
             ],
-"versions": [
-  {
-    "version": "1.0.0",
-    "publishedDate": "2025-05-03T01:01:01Z",
-    "supportedGames": [
-      "jak1"
-    ],
-    "settings": {
-      "decompConfigOverride": "",
-      "shareVanillaSaves": false
-    },
-    "assets": {
-      "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v1.0.0/windows-v1.0.0.zip",
-      "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v1.0.0/windows-v1.0.0.zip",
-      "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v1.0.0/windows-v1.0.0.zip"
-    },
-    "assetDownloadCounts": {
-      "windows": 0,
-      "linux": 0,
-      "macos": 0
-    }
-  }
-]
-,
-"coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/blob/main/JAK%204%20MINIA.jpg?raw=true",
-"thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/blob/main/JAK%204%20MINIA.jpg?raw=true"
-
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "publishedDate": "2025-05-03T01:01:01Z",
+                    "assets": {
+                        "windows": "https://github.com/TON_USER/TON_REPO/releases/download/v1.0.0/windows-v1.0.0.zip",
+                        "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v1.0.0/linux-v1.0.0.tar.gz",
+                        "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v1.0.0/macos-v1.0.0.tar.gz"
+                    }
+                }
+            ],
+            "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/blob/main/JAK%204%20MINIA.jpg?raw=true",
+            "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/blob/main/JAK%204%20MINIA.jpg?raw=true"
+        },
+        "jak-4-powers-mods": {
+            "displayName": "Jak 4 Powers Mods",
+            "description": "A new Jak 4 mod with extra powers, custom gameplay and enhancements.",
+            "authors": [
+                "Funki Delire"
+            ],
+            "tags": [
+                "texture-mod",
+                "gameplay-mod",
+                "powers",
+                "custom-bosses",
+                "menu-mode",
+                "enhancements"
+            ],
+            "websiteUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Powers-Mods",
+            "supportedGames": [
+                "jak2"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "publishedDate": "2025-09-20T01:01:01Z",
+                    "assets": {
+                        "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Powers-Mods/releases/download/v1.0.0/windows-v1.0.0.zip",
+                        "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Powers-Mods/releases/download/v1.0.0/linux-v1.0.0.tar.gz",
+                        "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Powers-Mods/releases/download/v1.0.0/macos-v1.0.0.tar.gz"
+                    }
+                }
+            ],
+            "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Powers-Mods/blob/main/JAK%204%20POWERS.jpg?raw=true",
+            "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Powers-Mods/blob/main/JAK%204%20POWERS.jpg?raw=true"
         }
     },
     "texturePacks": {},
-    "lastUpdated": "2025-05-03T01:01:01.000Z"
+    "lastUpdated": "2025-09-20T01:01:01.000Z"
 }
