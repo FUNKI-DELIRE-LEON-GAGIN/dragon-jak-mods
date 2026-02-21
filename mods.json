@@ -277,7 +277,7 @@
         },
         {
           "version": "1.0.0",
-          "publishedDate": "2025-10-12T00:00:00Z",
+          "publishedDate": "2026-20-02T00:00:00Z",
           "supportedGames": [
             "jak1"
           ],
@@ -301,7 +301,7 @@
       "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Sonic-Mods---Sonic-x-Jak/blob/main/MINIATURE.png?raw=true",
       "perGameConfig": {
         "jak1": {
-          "releaseDate": "2025-10-12"
+          "releaseDate": "2026-10-01"
         }
       },
       "externalLink": null
