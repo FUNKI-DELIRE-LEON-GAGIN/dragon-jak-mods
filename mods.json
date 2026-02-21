@@ -49,7 +49,6 @@
       },
       "externalLink": null
     },
-
     "dragon-jak-z": {
       "displayName": "Dragon Jak Z",
       "description": "Dragon Jak Z",
@@ -88,8 +87,8 @@
           }
         }
       ],
-      "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Z-Mods/blob/main/JAK%202%20MODS.png?raw=true",
-      "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Z-Mods/blob/main/JAK%202%20MODS.png?raw=true",
+      "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Z-Mods/blob/main/JAK%202%20MODS%20Dragon%20Jak%20Z%20!%20TRAILER%20AND%20TUTO%20!%20%23jakanddaxter%20%23jak2%20%23dragonball%20%23opengoal%20%23mods.png?raw=true",
+      "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Z-Mods/blob/main/JAK%202%20MODS%20Dragon%20Jak%20Z%20!%20TRAILER%20AND%20TUTO%20!%20%23jakanddaxter%20%23jak2%20%23dragonball%20%23opengoal%20%23mods.png?raw=true",
       "perGameConfig": {
         "jak2": {
           "releaseDate": "2024-08-29"
@@ -97,10 +96,9 @@
       },
       "externalLink": null
     },
-
     "jak-4-mods": {
       "displayName": "Jak 4 Mods",
-      "description": "Ultimate mods for Jak 4! New music, texture pack, models, powers, modified bosses, realistic waves and massive gameplay overhaul.",
+      "description": "Ultimate mods for Jak 4! Lots of power and the game is modified! New music, texture pack, models, powers, modified bosses, realistic waves, etc... I spent a crazy amount of time creating the mods!",
       "authors": [
         "Funki Delire"
       ],
@@ -136,6 +134,48 @@
             "linux": 0,
             "macos": 0
           }
+        },
+        {
+          "version": "3.0.0",
+          "publishedDate": "2025-12-14T12:00:00Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v3.0.0/windows-v3.0.0.zip",
+            "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v3.0.0/linux-v3.0.0.tar.gz",
+            "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v3.0.0/macos-v3.0.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.0.0",
+          "publishedDate": "2025-05-03T01:01:01Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v1.0.0/windows-v1.0.0.zip",
+            "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v1.0.0/linux-v1.0.0.tar.gz",
+            "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/releases/download/v1.0.0/macos-v1.0.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
         }
       ],
       "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-mods/blob/main/JAK%204%20MINIA.jpg?raw=true",
@@ -147,10 +187,59 @@
       },
       "externalLink": null
     },
-
+    "jak-4-powers-mods": {
+      "displayName": "Jak 4 Powers Mods",
+      "description": "A new Jak 4 mod with extra powers, custom gameplay and enhancements.",
+      "authors": [
+        "Funki Delire"
+      ],
+      "tags": [
+        "texture-mod",
+        "gameplay-mod",
+        "powers",
+        "custom-bosses",
+        "menu-mode",
+        "enhancements"
+      ],
+      "websiteUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Powers-Mods",
+      "supportedGames": [
+        "jak2"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishedDate": "2025-09-20T20:07:00Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Powers-Mods/releases/download/v1.0.0/windows-v1.0.0.zip",
+            "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Powers-Mods/releases/download/v1.0.0/linux-v1.0.0.tar.gz",
+            "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Powers-Mods/releases/download/v1.0.0/macos-v1.0.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Powers-Mods/blob/main/JAK%204%20MINIA.jpg?raw=true",
+      "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Powers-Mods/blob/main/JAK%204%20MINIA.jpg?raw=true",
+      "perGameConfig": {
+        "jak2": {
+          "releaseDate": "2025-09-20"
+        }
+      },
+      "externalLink": null
+    },
     "sonic-mods---sonic-x-jak": {
       "displayName": "Sonic-Mods — Sonic-x-Jak",
-      "description": "MAJOR UPDATE v5.0.0 — Sonic x Jak custom level expansion with new movement system, enhanced speed physics, visual overhaul and improved sound design.",
+      "description": "Sonic x Jak: CUSTOM LEVEL , Gameplay and visual modpack bringing Sonic-style movement and assets into Jak & Daxter (Jak 1).",
       "authors": [
         "Funki Delire"
       ],
@@ -167,7 +256,7 @@
       "versions": [
         {
           "version": "5.0.0",
-          "publishedDate": "2026-02-21T18:00:00Z",
+          "publishedDate": "2026-02-21T19:39:00Z",
           "supportedGames": [
             "jak1"
           ],
@@ -185,19 +274,39 @@
             "linux": 0,
             "macos": 0
           }
+        },
+        {
+          "version": "1.0.0",
+          "publishedDate": "2025-10-12T00:00:00Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Sonic-Mods---Sonic-x-Jak/releases/download/v1.0.0/windows-v1.0.0.zip",
+            "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Sonic-Mods---Sonic-x-Jak/releases/download/v1.0.0/linux-v1.0.0.tar.gz",
+            "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Sonic-Mods---Sonic-x-Jak/releases/download/v1.0.0/macos-v1.0.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
         }
       ],
       "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Sonic-Mods---Sonic-x-Jak/blob/main/MINIATURE.png?raw=true",
       "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Sonic-Mods---Sonic-x-Jak/blob/main/MINIATURE.png?raw=true",
       "perGameConfig": {
         "jak1": {
-          "releaseDate": "2026-02-21"
+          "releaseDate": "2025-10-12"
         }
       },
       "externalLink": null
     }
-
   },
   "texturePacks": {},
-  "lastUpdated": "2026-02-21T18:00:00.000Z"
+  "lastUpdated": "2025-10-12T00:00:00.000Z"
 }
