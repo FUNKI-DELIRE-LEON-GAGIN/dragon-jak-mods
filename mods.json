@@ -327,53 +327,74 @@
       },
       "externalLink": null
     },
-    "dragon-jak-gt": {
-      "displayName": "Dragon Jak GT",
-      "description": "Dragon Jak GT",
-      "authors": [
-        "Funki Delire"
-      ],
-      "tags": [
-        "texture-mod",
-        "gameplay-mod",
-        "model-replacement"
-      ],
-      "websiteUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt",
+   "dragon-jak-gt": {
+  "displayName": "Dragon Jak GT",
+  "description": "Dragon Jak GT",
+  "authors": [
+    "Funki Delire"
+  ],
+  "tags": [
+    "texture-mod",
+    "gameplay-mod",
+    "model-replacement"
+  ],
+  "websiteUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt",
+  "supportedGames": [
+    "jak3"
+  ],
+  "versions": [
+    {
+      "version": "3.0.0",
+      "publishedDate": "2026-04-14T21:45:00Z",
       "supportedGames": [
         "jak3"
       ],
-      "versions": [
-        {
-          "version": "2.0.0",
-          "publishedDate": "2026-04-14T21:45:00Z",
-          "supportedGames": [
-            "jak3"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt/releases/download/v2.0.0/windows-v2.0.0.zip",
-            "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt/releases/download/v2.0.0/linux-v2.0.0.tar.gz",
-            "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt/releases/download/v2.0.0/macos-v2.0.0.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
-            "macos": 0
-          }
-        }
-      ],
-      "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt/blob/main/MIMINIATURE%20JAK.png?raw=true",
-      "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt/blob/main/MIMINIATURE%20JAK.png?raw=true",
-      "perGameConfig": {
-        "jak3": {
-          "releaseDate": "2026-04-14"
-        }
+      "settings": {
+        "decompConfigOverride": "",
+        "shareVanillaSaves": false
       },
-      "externalLink": null
+      "assets": {
+        "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt/releases/download/v3.0.0/windows-v3.0.0.zip",
+        "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt/releases/download/v3.0.0/linux-v3.0.0.tar.gz",
+        "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt/releases/download/v3.0.0/macos-v3.0.0.tar.gz"
+      },
+      "assetDownloadCounts": {
+        "windows": 0,
+        "linux": 0,
+        "macos": 0
+      }
+    },
+    {
+      "version": "2.0.0",
+      "publishedDate": "2026-04-14T21:45:00Z",
+      "supportedGames": [
+        "jak3"
+      ],
+      "settings": {
+        "decompConfigOverride": "",
+        "shareVanillaSaves": false
+      },
+      "assets": {
+        "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt/releases/download/v2.0.0/windows-v2.0.0.zip",
+        "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt/releases/download/v2.0.0/linux-v2.0.0.tar.gz",
+        "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt/releases/download/v2.0.0/macos-v2.0.0.tar.gz"
+      },
+      "assetDownloadCounts": {
+        "windows": 0,
+        "linux": 0,
+        "macos": 0
+      }
     }
+  ],
+  "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt/blob/main/MIMINIATURE%20JAK.png?raw=true",
+  "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/dragon-jak-gt/blob/main/MIMINIATURE%20JAK.png?raw=true",
+  "perGameConfig": {
+    "jak3": {
+      "releaseDate": "2026-04-14"
+    }
+  },
+  "externalLink": null
+}
   },
   "texturePacks": {},
   "lastUpdated": "2026-04-14T21:45:00.000Z"
