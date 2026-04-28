@@ -66,6 +66,23 @@
       ],
       "versions": [
         {
+          "version": "2.0.0",
+          "publishedDate": "2026-04-29T12:00:00Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Z-Mods/releases/download/v2.0.0/windows-v2.0.0.zip"
+          },
+          "assetDownloadCounts": {
+            "windows": 0
+          }
+        },
+        {
           "version": "1.0.0",
           "publishedDate": "2026-04-22T12:00:00Z",
           "supportedGames": [
@@ -108,7 +125,7 @@
       "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Dragon-Jak-Z-Mods/blob/main/JAK%202%20MODS%20Dragon%20Jak%20Z%20!%20TRAILER%20AND%20TUTO%20!%20%23jakanddaxter%20%23jak2%20%23dragonball%20%23opengoal%20%23mods.png?raw=true",
       "perGameConfig": {
         "jak2": {
-          "releaseDate": "2026-04-22"
+          "releaseDate": "2026-04-29"
         }
       },
       "externalLink": null
@@ -414,5 +431,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-04-22T12:00:00.000Z"
+  "lastUpdated": "2026-04-29T12:00:00.000Z"
 }
