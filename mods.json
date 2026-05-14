@@ -428,8 +428,52 @@
         }
       },
       "externalLink": null
+    },
+    "jak-2-coop-multiplayer-mods": {
+      "displayName": "Jak 2 Coop Multiplayer Mods",
+      "description": "Jak 2 Coop Multiplayer Mods",
+      "authors": [
+        "Funki Delire"
+      ],
+      "tags": [
+        "gameplay-mod",
+        "multiplayer",
+        "coop",
+        "jak2"
+      ],
+      "websiteUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/jak-2-Coop-multiplayer-mods",
+      "supportedGames": [
+        "jak2"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishedDate": "2026-05-14T12:00:00Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/jak-2-Coop-multiplayer-mods/releases/download/1.0.0/windows-v1.0.0.zip"
+          },
+          "assetDownloadCounts": {
+            "windows": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/jak-2-Coop-multiplayer-mods/blob/main/MINIA%20DUO.png?raw=true",
+      "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/jak-2-Coop-multiplayer-mods/blob/main/MINIA%20DUO.png?raw=true",
+      "perGameConfig": {
+        "jak2": {
+          "releaseDate": "2026-05-14"
+        }
+      },
+      "externalLink": null
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-04-29T12:00:00.000Z"
+  "lastUpdated": "2026-05-14T12:00:00.000Z"
 }
