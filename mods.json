@@ -472,8 +472,52 @@
         }
       },
       "externalLink": null
+    },
+    "jak-3-coop-multiplayer-mods": {
+      "displayName": "Jak 3 Coop Multiplayer Mods",
+      "description": "Jak 3 Coop Multiplayer Mods",
+      "authors": [
+        "Funki Delire"
+      ],
+      "tags": [
+        "gameplay-mod",
+        "multiplayer",
+        "coop",
+        "jak3"
+      ],
+      "websiteUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/jak-3-Coop-multiplayer-mods",
+      "supportedGames": [
+        "jak3"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishedDate": "2026-05-27T12:00:00Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/jak-3-Coop-multiplayer-mods/releases/download/JAK3COOP/windows-v1.0.0.zip"
+          },
+          "assetDownloadCounts": {
+            "windows": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/jak-3-Coop-multiplayer-mods/blob/main/MIMINIATURE%20JAK.jpg?raw=true",
+      "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/jak-3-Coop-multiplayer-mods/blob/main/MIMINIATURE%20JAK.jpg?raw=true",
+      "perGameConfig": {
+        "jak3": {
+          "releaseDate": "2026-05-27"
+        }
+      },
+      "externalLink": null
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-05-14T12:00:00.000Z"
+  "lastUpdated": "2026-05-27T12:00:00.000Z"
 }
