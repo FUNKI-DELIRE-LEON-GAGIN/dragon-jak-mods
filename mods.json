@@ -516,8 +516,51 @@
         }
       },
       "externalLink": null
+    },
+    "goal-craft-mods": {
+      "displayName": "Goal Craft mods",
+      "description": "Goal Craft mods",
+      "authors": [
+        "Funki Delire"
+      ],
+      "tags": [
+        "gameplay-mod",
+        "custom-map",
+        "jak1"
+      ],
+      "websiteUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Goal-Craft-Mods",
+      "supportedGames": [
+        "jak1"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishedDate": "2026-05-28T12:00:00Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Goal-Craft-Mods/releases/download/Goal-Craft/windows-v1.0.0.zip"
+          },
+          "assetDownloadCounts": {
+            "windows": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Goal-Craft-Mods/blob/main/GOAL%20CRAFT%20MINIA.png?raw=true",
+      "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Goal-Craft-Mods/blob/main/GOAL%20CRAFT%20MINIA.png?raw=true",
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2026-05-28"
+        }
+      },
+      "externalLink": null
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-05-27T12:00:00.000Z"
+  "lastUpdated": "2026-05-28T12:00:00.000Z"
 }
