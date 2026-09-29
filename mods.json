@@ -559,6 +559,51 @@
         }
       },
       "externalLink": null
+    },
+    "jak-3-online": {
+      "displayName": "Jak 3 Online",
+      "description": "Jak 3 Online: a real online world for Jak 3! Play with everyone in Haven City and the desert, PvP, bosses, races, vehicles to call anywhere, shop in orbs, teleportation, playable characters (Keira, Jak 2, Jak 1 HD, Jak 4, Tess, Daxter), levels, anti-cheat, 23 languages.",
+      "authors": [
+        "Funki Delire"
+      ],
+      "tags": [
+        "gameplay-mod",
+        "multiplayer",
+        "online",
+        "pvp",
+        "jak3"
+      ],
+      "websiteUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-3-Online",
+      "supportedGames": [
+        "jak3"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishedDate": "2026-09-29T12:00:00Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-3-Online/releases/download/v1.0.0/windows-v1.0.0.zip"
+          },
+          "assetDownloadCounts": {
+            "windows": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-3-Online/blob/main/MINIATURE-JAK3-ONLINE.png?raw=true",
+      "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-3-Online/blob/main/MINIATURE-JAK3-ONLINE.png?raw=true",
+      "perGameConfig": {
+        "jak3": {
+          "releaseDate": "2026-09-29"
+        }
+      },
+      "externalLink": null
     }
   },
   "texturePacks": {},
