@@ -579,6 +579,27 @@
       ],
       "versions": [
         {
+          "version": "5.0.0",
+          "publishedDate": "2026-10-16T12:00:00Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-3-Online/releases/download/v5.0.0/windows-v5.0.0.zip",
+            "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-3-Online/releases/download/v5.0.0/linux-v5.0.0.zip",
+            "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-3-Online/releases/download/v5.0.0/macos-v5.0.0.zip"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "4.9.5",
           "publishedDate": "2026-10-11T12:00:00Z",
           "supportedGames": [
