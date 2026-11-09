@@ -2,6 +2,55 @@
   "schemaVersion": "1.0.0",
   "sourceName": "Funki_Delire",
   "mods": {
+    "jak-4-story-mode": {
+      "displayName": "Jak 4 Story Mode",
+      "description": "JAK 4 STORY MODE : a story mod for Jak 3 - new story, cutscenes, Jak 4 missions, new worlds (Jak 2's Haven City...), powers, weather, vehicles. Version 0.5 !",
+      "authors": [
+        "Funki Delire"
+      ],
+      "tags": [
+        "gameplay-mod",
+        "custom-levels",
+        "story",
+        "powers",
+        "enhancements"
+      ],
+      "websiteUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode",
+      "supportedGames": [
+        "jak3"
+      ],
+      "versions": [
+        {
+          "version": "0.5",
+          "publishedDate": "2026-11-09T18:00:00Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/releases/download/v0.5/windows-v0.5.zip",
+            "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/releases/download/v0.5/linux-v0.5.zip",
+            "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/releases/download/v0.5/macos-v0.5.zip"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/blob/main/MINIATURE%20JAK%204%20S.png?raw=true",
+      "thumbnailArtUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/blob/main/MINIATURE%20JAK%204%20S.png?raw=true",
+      "perGameConfig": {
+        "jak3": {
+          "releaseDate": "2026-11-09"
+        }
+      },
+      "externalLink": null
+    },
     "dragon-jak-ball": {
       "displayName": "Dragon Jak Ball",
       "description": "Dragon Jak Ball",
