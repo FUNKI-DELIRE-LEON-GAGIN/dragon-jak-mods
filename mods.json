@@ -4,16 +4,17 @@
   "mods": {
     "jak-4-story-mode": {
       "displayName": "Jak 4 Story Mode",
-      "description": "JAK 4 STORY MODE : a story mod for Jak 3 - new story, cutscenes, Jak 4 missions, new worlds (Jak 2's Haven City...), powers, weather, vehicles. Version 0.5 !",
+      "description": "JAK 4 STORY MODE - the unofficial sequel to Jak 3 ! A whole new story with special illustrated and voiced cutscenes, new custom levels and worlds (Jak 2's Haven City, Precursor archipelago, mist, jungle, volcano, space...), new bosses (the forge colossus...), Jak 4 missions, new powers, dynamic weather and much more. Version 0.5 !",
       "authors": [
         "Funki Delire"
       ],
       "tags": [
-        "gameplay-mod",
-        "custom-levels",
         "story",
+        "custom-levels",
+        "cutscenes",
+        "custom-bosses",
         "powers",
-        "enhancements"
+        "gameplay-mod"
       ],
       "websiteUrl": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode",
       "supportedGames": [
