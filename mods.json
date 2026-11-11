@@ -4,7 +4,7 @@
   "mods": {
     "jak-4-story-mode": {
       "displayName": "Jak 4 Story Mode",
-      "description": "JAK 4 STORY MODE - the unofficial sequel to Jak 3 ! A whole new story with special illustrated and voiced cutscenes, new custom levels and worlds (Jak 2's Haven City, Precursor archipelago, mist, jungle, volcano, space...), new bosses (the forge colossus...), Jak 4 missions, new powers, dynamic weather and much more. Version 1.5 !",
+      "description": "JAK 4 STORY MODE - the unofficial sequel to Jak 3 ! A whole new story with special illustrated and voiced cutscenes, new custom levels and worlds (Jak 2's Haven City, Precursor archipelago, mist, jungle, volcano, space...), new bosses (the forge colossus...), Jak 4 missions, new powers, dynamic weather and much more. Version 1.6 !",
       "authors": [
         "Funki Delire"
       ],
@@ -22,8 +22,8 @@
       ],
       "versions": [
         {
-          "version": "1.5",
-          "publishedDate": "2026-11-11T04:30:00Z",
+          "version": "1.6",
+          "publishedDate": "2026-11-11T20:00:00Z",
           "supportedGames": [
             "jak3"
           ],
@@ -32,7 +32,7 @@
             "shareVanillaSaves": false
           },
           "assets": {
-            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/releases/download/v1.5/windows-v1.5.zip",
+            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/releases/download/v1.6/windows-v1.6.zip",
             "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/releases/download/v1.0/linux-v1.0.zip",
             "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/releases/download/v1.0/macos-v1.0.zip"
           },
