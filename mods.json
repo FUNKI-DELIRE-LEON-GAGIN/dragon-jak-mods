@@ -22,6 +22,27 @@
       ],
       "versions": [
         {
+          "version": "2.1",
+          "publishedDate": "2026-11-17T12:00:00Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/releases/download/v2.1/windows-v2.1.zip",
+            "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/releases/download/v2/linux-v2.zip",
+            "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/releases/download/v2/macos-v2.zip"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "2",
           "publishedDate": "2026-11-15T02:00:00Z",
           "supportedGames": [
