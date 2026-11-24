@@ -4,7 +4,7 @@
   "mods": {
     "jak-4-story-mode": {
       "displayName": "Jak 4 Story Mode",
-      "description": "JAK 4 STORY MODE - the unofficial sequel to Jak 3 ! A whole new story with special illustrated and voiced cutscenes, new custom levels and worlds (Jak 2's Haven City, Precursor archipelago, mist, jungle, volcano, space...), new bosses (the forge colossus...), Jak 4 missions, new powers, dynamic weather and much more. Version 2 !",
+      "description": "JAK 4 STORY MODE - the unofficial sequel to Jak 3 ! A whole new story with special illustrated and voiced cutscenes, new custom levels and worlds (Jak 2's Haven City, Precursor archipelago, mist, jungle, volcano, space...), new bosses (the forge colossus...), Jak 4 missions, new powers, dynamic weather and much more. Version 3 : new adventure Jak 4: The Eco Legacy !",
       "authors": [
         "Funki Delire"
       ],
@@ -21,6 +21,27 @@
         "jak3"
       ],
       "versions": [
+        {
+          "version": "3",
+          "publishedDate": "2026-11-24T02:00:00Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/releases/download/v3/windows-v3.zip",
+            "linux": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/releases/download/v2/linux-v2.zip",
+            "macos": "https://github.com/FUNKI-DELIRE-LEON-GAGIN/Jak-4-Story-Mode/releases/download/v2/macos-v2.zip"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
         {
           "version": "2.1",
           "publishedDate": "2026-11-17T12:00:00Z",
